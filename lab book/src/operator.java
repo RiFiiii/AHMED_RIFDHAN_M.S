@@ -2,7 +2,7 @@
 public class operator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stubpublic class ConditionalDemo {
+		// TODO Auto-generated method stub
 			//Ternary Operator
 			
 			System.out.println(true ?"success":"failure");
