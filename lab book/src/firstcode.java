@@ -2,7 +2,6 @@
 public class firstcode {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int i=256;
 		
 		char c=65535;
@@ -19,4 +18,5 @@ public class firstcode {
 		System.out.println(n+l);
 	}
 
-}
+
+	}
