@@ -6,9 +6,9 @@ public class ReverseANumber {
 	int reversenum =0; 
 	 System.out.println("Input your number and press enter: "); 
 	 //This statement will capture the user input
-	 Scanner in = new Scanner(System.in); 
+	 Scanner i = new Scanner(System.in); 
 	 //Captured input would be stored in number num
-	num = in.nextInt(); 
+	num = i.nextInt(); 
 	//While Loop: Logic to find out the reverse number
 	while( num != 0 ) 
 	 { 
