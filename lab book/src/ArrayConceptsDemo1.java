@@ -12,7 +12,7 @@ public class ArrayConceptsDemo1 {
 		//or 
 		
 		int arr2[]= {12,43,54,65,76};
-		int arr3[]= new int[5];//by default zeo will be assigned
+		int arr3[]= new int[5];//by default zero will be assigned
 		//how to Access Array Values
 		
 		System.out.println(arr3[2]);
