@@ -15,10 +15,10 @@ public class ArrayConceptsDemo1 {
 		int arr3[]= new int[5];//by default zero will be assigned
 		//how to Access Array Values
 		
-		System.out.println(arr3[2]);
-		System.out.println(arr3[4]);
+		System.out.println(arr2[2]);
+		System.out.println(arr[4]);
 		
-		System.out.println(arr3.length);//no of columns
+		System.out.println(arr.length);//no of columns
 		
 		//how to allocate Values to Array
 		
