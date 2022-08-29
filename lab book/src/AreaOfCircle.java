@@ -10,7 +10,7 @@ public class AreaOfCircle {
 	 */
 	 double radius = scanner.nextDouble(); 
 	 //Area = PI*radius*radius
-	double area = Math.PI * (radius * radius); 
+	double area = Math.PI* (radius * radius); 
 	 System.out.println("The area of circle is: " + area); 
 	 //Circumference = 2*PI*radius
 	double circumference= Math.PI * 2*radius; 
