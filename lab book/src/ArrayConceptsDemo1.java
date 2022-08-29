@@ -23,7 +23,6 @@ public class ArrayConceptsDemo1 {
 		
 		arr3[2]=9000;
 		arr3[4]=999000;
-		
 		System.out.println(arr3[2]);
 		System.out.println(arr3[4]);
 	}
