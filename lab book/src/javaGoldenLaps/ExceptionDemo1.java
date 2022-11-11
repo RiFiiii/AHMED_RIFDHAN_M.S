@@ -14,11 +14,7 @@ public class ExceptionDemo1 {
 			c=a/b;//throw
 			System.out.println("try block");
 		}
-		catch(ArithmeticException e) {
-			System.out.println("arithmetic exception is occurred");
-		
-		}
-		catch(NullPointerException e) {
+		catch(NullPointerException ne) {
 			System.out.println(" NullPointer exception is occurred");
 		
 		}
